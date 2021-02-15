@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": Rogério Ávila,
+  "author": Rogério,
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
