@@ -1,8 +1,4 @@
-### Oiin Sou o Toin
-<a href="https://github.com/ToinNetuh" >
-
-<br>
-
+### Oiin Sou Bot Rogério Ávila 
 
 
 
