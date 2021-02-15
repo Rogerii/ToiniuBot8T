@@ -1,5 +1,5 @@
 {
-  "name": "toin-bot",
+  "name": "Bot Rogério Ávila ",
   "version": "0.0.2",
   "description": "Pelo termux",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Toin",
+  "author": Rogério Ávila,
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
