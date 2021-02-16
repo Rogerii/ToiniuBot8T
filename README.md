@@ -22,7 +22,7 @@ Follow The Steps Below!
 > termux-setup-storage
 (De Acesso ao Armazenamento)
 > apt install git -y
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
+> git clone https://github.com/ https://github.com/Rogerii/ToiniuBot8T/termux-whatsapp-bot
 > cd termux-whatsapp-bot
 > bash install.sh
 ```
