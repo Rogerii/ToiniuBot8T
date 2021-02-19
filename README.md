@@ -22,7 +22,7 @@ Follow The Steps Below!
 > termux-setup-storage
 (De Acesso ao Armazenamento)
 > apt install git -y
-> git clone https://https://github.com/Rogerii
+> git clone https://github.com/Rogerii
 > cd rogerbot40
 > bash install.sh
 ```
