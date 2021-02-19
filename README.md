@@ -23,7 +23,7 @@ Follow The Steps Below!
 (De Acesso ao Armazenamento)
 > apt install git -y
 > git clone https://github.com/Rogerii/ToiniuBot8T/termux-whatsapp-bot
-> cd roger-whatsapp-bot
+> cd rogerbot40
 > bash install.sh
 ```
 
